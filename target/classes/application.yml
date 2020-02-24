@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: SpringNetty-CQ
+  profiles:
+    active: dev
